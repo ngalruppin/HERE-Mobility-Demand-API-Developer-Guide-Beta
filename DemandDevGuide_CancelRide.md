@@ -2,7 +2,9 @@
 
 You may want to cancel a ride after it was booked, following a cancellation request from the user.
 
->**Note:** Whether ride cancellation is allowed depends on the supplier's policy. If cancellation isn't allowed, the user will be fined, and the call to *CancelRide* will fail. *CancelRide* will also fail if you try to cancel a ride that isn't active.
+>**Notes:** 
+>* Whether ride cancellation is allowed depends on the supplier's policy. If cancellation isn't allowed, the call to *CancelRide* will fail. 
+>* *CancelRide* will also fail if you try to cancel a ride that isn't active.
 
 **To cancel a ride after it was booked:**
 

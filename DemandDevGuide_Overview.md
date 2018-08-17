@@ -22,7 +22,7 @@ Package | Supported Platforms/Interfaces | Description
 Demand SDK | iOS, Android | SDK for mobile devices
 Demand React Native Kit | iOS, Android | React Native Javascript wrapper for mobile devices
 Demand API Consumer-to-Service (C2S) | REST, GRPC | API for a single user (typically used by a mobile device app)
-Demand API Service-to-Service (S2S) | REST, GRPC | API for managing multiple users (typically used by a service kiosk device)
+Demand API Service-to-Service (S2S) | REST, GRPC | API for managing multiple users
 
 ## Introduction to the HERE Demand API ## 
 
